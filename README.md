@@ -3,4 +3,4 @@ Devfood é um site criado para aprimorar as habilidades com CSS em específico: 
 
 
 #Layout
-<img src="https://imgur.com/e9VlqmX"
+<img src="https://imgur.com/e9VlqmX">
